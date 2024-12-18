@@ -92,6 +92,4 @@ This project is fully simulated in Wokwi IoT Simulator. Use the following `diagr
 4. Upload the code to your ESP32.
 5. Simulate the hardware setup using Wokwi or deploy it physically.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
